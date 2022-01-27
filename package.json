@@ -1,0 +1,18 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "start": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "vishap gautam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "slugify": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
